@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="App">
       <h1>My travel collection</h1>
-      <small>Works with MockAPI</small>
+      <small>Works with MockAPI.</small>
       <div className="top">
         <ul className="tags">
           {cats.map((obj, index) => (
